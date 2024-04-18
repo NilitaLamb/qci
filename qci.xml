@@ -8,6 +8,9 @@
 			body > a {
 				display: block;
 			}
+			body {
+			font-family: tahoma, verdana, arial, sans-serif;
+			}
 			.info {
 				color: #00004d;
 			}
