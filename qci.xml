@@ -9,7 +9,7 @@
 				display: block;
 			}
 			.info {
-				color: blue;
+				color: #00004d;
 			}
 		</style>
 	</head>
