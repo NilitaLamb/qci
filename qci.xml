@@ -79,6 +79,7 @@
 		<a href="doctype-html/with-prefixed-xhtml-tags.xhtml" title="a-title: XML с xHTML тегами с префиксом">a-text: XML с xHTML тегами с префиксом</a>
 		<a href="doctype-html/with-xhtml-fragment.xhtml" title="a-title: XML c xHTML фрагментом">a-text: XML c xHTML фрагментом</a>
 		<a href="doctype-html/with-xhtml-tags-with-default-namespaces.xhtml" title="a-title: XML c xHTML тегами c пространством имён поумолчанию">a-text: XML c xHTML тегами c пространством имён поумолчанию</a>
-		
+		<p>с этой страницей можно поделиться используя qr код</p>
+		<img src="http://qrcoder.ru/code/?https%3A%2F%2Fnilitalamb.github.io%2Fqci%2Fqci.xml&4&0" width="148" height="148" border="0" title="QR код">
 	</body>
 </html>
